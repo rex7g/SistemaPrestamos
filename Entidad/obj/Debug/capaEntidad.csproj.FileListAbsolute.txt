@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\bin\Debug\Entidad.dll
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\bin\Debug\Entidad.pdb
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\obj\Debug\capaEntidad.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\obj\Debug\Entidad.dll
+C:\Users\HP\source\repos\systemaDePrestamo\Entidad\obj\Debug\Entidad.pdb
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\bin\Debug\Entidad.dll
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\bin\Debug\Entidad.pdb
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\obj\Debug\Entidad.dll
+C:\Users\dell\Desktop\systemaDePrestamo\Entidad\obj\Debug\Entidad.pdb
